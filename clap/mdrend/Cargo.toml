@@ -1,0 +1,10 @@
+[package]
+name = "mdrend"
+version = "0.1.0"
+authors = ["<KimMyeongJun> <myeongjun222@naver.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.1"
+pulldown-cmark = "0.7.2"
+maud = "0.22.0"
